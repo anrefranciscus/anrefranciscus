@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anrefranciscus
 - 👀 I’m interested in 
-- 🌱 I’m currently learning PHP and JavaScript
+- 🌱 My Tech Stack React JS, Vue JS, javascript, Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
